@@ -227,6 +227,7 @@ hr{
         grid-template-columns: 1fr;
         padding: 3rem;
         gap: 7rem;
+        justify-content: center;
     }
     .profile{
         margin-bottom: 0;
